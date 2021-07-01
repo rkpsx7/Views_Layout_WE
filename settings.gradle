@@ -1,0 +1,2 @@
+rootProject.name = "Views_Layout_WE"
+include ':app'
